@@ -16,7 +16,7 @@ Content that fits our ethos and provides inspiration.
 
 - [iOS Dev Weekly](https://iosdevweekly.com). Absolute must for iOS devs of all levels.
 
-
+<br>
 ## Videos
 
 - [Strong opinions held loosely](https://www.youtube.com/watch?v=hlLhtWLghGA). Brilliant to remember when discussing ideas/problems/opinions with others.
